@@ -3,7 +3,8 @@
 int main ()
 {
 
-printf("hello demba ");
+printf("hello demba git\n");
+printf("Unaweza kufanya hichi kitu ");
 
     return 0;
 }
