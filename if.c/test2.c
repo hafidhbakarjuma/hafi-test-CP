@@ -1,13 +1,14 @@
 #include <stdio.h>
 int main ()
 {
+ // This is the another option
+
+/*int a = 90;
+int b = 50;
+*/
 
 int a;
 int b;
-
-/*int a = 90;
-int b = 500;
-*/
 
 printf("Enter your Number A : ");
 scanf("%d", &a);
