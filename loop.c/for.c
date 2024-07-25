@@ -5,9 +5,9 @@ int main ()
 
 
 // This is the for loop 
-for (int i = 0; i < 30; i++)
+for(int i = 0; i<20; i++)
 {
-    printf("%d\n", i) 
+    printf("%d\n", i); 
 }
 
     return 0;
