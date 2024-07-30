@@ -7,9 +7,9 @@ int main ()
 int grade[4];
 
 grade[0] = 1;
-grade[1] = 2;
-grade[2] = 3;
-grade[3] = 4;
+grade[1] = 3;
+grade[2] = 5;
+grade[3] = 7;
 
 printf("grade[0] is %d\n", grade[0]);
 printf("grade[1] is %d\n", grade[1]);
