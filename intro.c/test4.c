@@ -3,7 +3,7 @@
 int main ()
 {
 
-// MULTIPLICATION 
+// MATH 
 
 int a = 2+2+2+2+2+2+2;
 int b = 100-2-2-2-2-2-2;
