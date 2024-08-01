@@ -23,5 +23,4 @@ You(name,age);
 printf("Heloo %s\n", name);
 printf("You age is %d\n", age);
 
-    
 }
