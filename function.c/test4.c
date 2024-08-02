@@ -13,7 +13,7 @@ int main ()
 int age = 100;
 char name [] = "Hafi";
 
-You(name,age);
+You(name[], age);
 
     return 0;
 }

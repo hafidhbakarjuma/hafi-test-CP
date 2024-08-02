@@ -11,5 +11,6 @@ int main ()
 
 int a = max(20);
 printf("%d ", a);
+    
     return 0;
 }
